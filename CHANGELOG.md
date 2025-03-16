@@ -8,4 +8,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2025-03-16
 
-- [ ] creating site framework
+- [x] creating site framework
+- [x] setting Node version 22 for Vercel hosting
