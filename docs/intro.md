@@ -1,3 +1,15 @@
+# About Carrboro composting
+
+In 2023, the Town of Carrboro (in Orange County, NC) began awarding Green Neighborhood grants (https://townofcarrboro.org/2778/Green-Neighborhoods-Grant-Program). Fairoaks HOA Composting resulted from this grant program to help educate and to encourage community composting within their neighborhood. Using CompostNow, commercial composting serices, Fairoaks was able to offer composting of items such as pizza boxes, meat, and dairy for households. 
+
+## Why composting?
+
+As with most things, it is complicated. One of the main reasons to compost is help divert food waste and compostables from the landfill. This is not simply for environmental reasons but there is also a monetary cost to municipalities. "In Carrboro, NC, municipal tipping fees for waste removal, or the cost to dispose of waste at a landfill, are typically calculated based on the weight of the waste, with a common rate of around $37 per ton for municipal solid waste, plus a state excise tax of $2 per ton." In otherwords, waste disposal is not free. It costs taxpayers to dispose of their waste through their municipalities.
+
+According to a recent analysis report in 2025, of landfill waste for Orange County, approximately 27% of material going to the landfill for the county is food waste which could be composted.
+
+Municipalities such as Orange County pay by the ton for waste 
+
 # Goal
 
 To promote composting in Carrboro in an effort to reduce waste, reduce emissions, and create healthier soils.
