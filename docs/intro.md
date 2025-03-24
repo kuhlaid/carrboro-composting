@@ -1,6 +1,6 @@
 # Goal
 
-To promote composting in Carrboro in an effort to reduce waste and create healthier soils.
+To promote composting in Carrboro in an effort to reduce waste, reduce emissions, and create healthier soils.
 
 ## Want to start a similar program in your neighborhood?  
 
