@@ -51,7 +51,7 @@
     ]
   },
   "engines": {
-    "node": "23.10.0"
+    "node": "22.x"
   },
   "resolutions": {
     "cheerio": "1.0.0-rc.12"

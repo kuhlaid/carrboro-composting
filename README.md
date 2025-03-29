@@ -22,6 +22,11 @@ To clone the repository locally use:
 
 `git clone --config core.autocrlf=false https://github.com/kuhlaid/carrrboro-composting`
 
+## Node install using Yarn
+
+`fnm install 22` # to install Node version 22 (to uninstall use `fnm uninstall 22`)
+Once Node is installed we need to enable Yarn using `corepack enable yarn`. See https://nodejs.org/en/download/ for additional instructions.
+
 Use `yarn install` to install the node modules defined in the package.json file.
 
 Then use `yarn build` to check everything builds correctly and then `yarn run serve` to see how the new site looks and navigates.
