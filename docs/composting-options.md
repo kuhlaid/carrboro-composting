@@ -5,6 +5,7 @@ There are many forms of composting, from backyard to commercial. Some composting
 Orange County, NC has a good resource at https://orangecountync.gov/1150/Compost-at-Home to help you learn more about composting.
 
 ## Home Composting
+
 Composting in your backyard is one of the best ways to compost.  Your food waste doesn’t travel very far before it breaks down into a beautiful soil amendment.  And, you get to use it to improve the soil on your own property. It’s a win, win! 
 
 There are many ways that you can compost at home, but below are a few guidelines to help you get started:

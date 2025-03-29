@@ -20,7 +20,9 @@ const sidebars = {
   leftSidebar: [
     'intro',
     'composting-options',
-    'feedback',
+    'news',
+    'progress',
+    'contact',
     { // we define the category folders here so we do not need to add _category_.json files to each directory
       type: 'category',
       label: 'Carrboro Composting Study Basics',

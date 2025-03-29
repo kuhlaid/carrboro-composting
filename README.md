@@ -29,7 +29,7 @@ Once Node is installed we need to enable Yarn using `corepack enable yarn`. See 
 
 Use `yarn install` to install the node modules defined in the package.json file.
 
-Then use `yarn build` to check everything builds correctly and then `yarn run serve` to see how the new site looks and navigates.
+Then use `yarn build` to check that all of the documents are referencing links and other content correctly and then `yarn run serve` to see how the new site looks and navigates.
 
 **Technical Note: If you are testing Docusaurus locally and the command line that serves the Docusaurus site is closed unexpectedly, it is best to simply log out of the computer and log back so you can start the site using a new instance (since `port in use` issues will be difficult to resolve otherwise).**
 
@@ -37,7 +37,7 @@ Then use `yarn build` to check everything builds correctly and then `yarn run se
 
 Use Yarn via https://yarnpkg.com/getting-started/install. When adding something like a search module to the package.json script, run `yarn up` to update the packages or `yarn add` to add a package.
 
-To run the build first run `yarn run build` then `yarn run serve` (this is ideal because it builds the site search locally).
+To run the build first run `yarn run build` then `yarn run serve` (this is ideal because it builds the site search locally). When running a build, check for any suggested installs or updates and run additional suggested commands accordingly.
 
 ## Using this code on Vercel
 
