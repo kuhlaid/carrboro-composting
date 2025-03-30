@@ -59,7 +59,8 @@ const config = {
           breadcrumbs: true,
           sidebarPath: './sidebars.js',
           showLastUpdateTime: true, // show date on documents
-          showLastUpdateAuthor: true  // show author who performed update
+          showLastUpdateAuthor: true,  // show author who performed update
+          routeBasePath: '/',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           // editUrl:
@@ -94,7 +95,6 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'leftSidebar',
             position: 'left',
-            label: '> Main menu',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Read the Composting Guide',
-                to: '/docs/intro',
+                to: '/docs/composting-options',
               },
             ],
           },

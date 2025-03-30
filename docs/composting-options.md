@@ -30,24 +30,7 @@ There are many ways that you can compost at home, but below are a few guidelines
 
 If you live in an apartment or don’t have a good place for a backyard bin, you can bring your food waste to a drop off site.  Orange County has three food waste drop off sites that accept food scraps.  This food waste goes to a commercial composting facility that can accept meat and dairy, in addition to the items that you can compost in your backyard.  Simply collect your food waste and bring it to one of the drop off sites below.  
 
-1) Carrboro Farmer’s Market: (https://www.carrborofarmersmarket.com/)  
-   1) Hours of Operation  
-      Saturday 9-12 (winter hours)  
-      Saturday 7-12 (summer hours)  
-2) 1518 Eubanks Rd, Chapel Hill, NC 27516  
-3) 3605 Walnut Grove Church Rd., Hillsborough, NC 27278  
-   1) Hours of operation:  
-      Monday, Tuesday, Thursday, Friday \- 7AM-6PM  
-      Saturday \- 7AM-5PM  
-      Sunday \- 1PM-6PM  
-      Wednesday \- CLOSED
-
-4) 7001 High Rock Rd, Efland, NC 27243  
-   1) Hours of operation:  
-      Tuesday, Friday \- 7AM-6PM  
-      Saturday \- 7AM-5PM  
-      Sunday \- 1PM-6PM  
-      Monday, Wednesday, Thursday \- CLOSED
+Visit https://www.orangecountync.gov/2693/Food-Waste-Drop-Off-Sites for the latest hours of operation.
 
 ## Start your own neighborhood composting program
 
