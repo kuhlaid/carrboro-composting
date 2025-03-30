@@ -48,10 +48,7 @@ const config = {
   //   ],
   // ],
   plugins: [
-    ['@docusaurus/plugin-content-blog', {
-      indexBlog: false,
-    }],
-    require.resolve('@cmfcmf/docusaurus-search-local'),
+    require.resolve('@cmfcmf/docusaurus-search-local')
   ],
   presets: [
     [
@@ -69,7 +66,14 @@ const config = {
           // editUrl:
           //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
-        blog: false,
+        blog: {
+          showReadingTime: true,
+          indexBlog: false
+          // Please change this to your repo.
+          // Remove this to remove the "edit this page" links.
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -94,6 +98,7 @@ const config = {
             position: 'left',
             label: 'Menu',
           },
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/kuhlaid/carrrboro-composting',
             label: 'GitHub',
