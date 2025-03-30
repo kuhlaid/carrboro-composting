@@ -48,7 +48,10 @@ const config = {
   //   ],
   // ],
   plugins: [
-    require.resolve('@cmfcmf/docusaurus-search-local')
+    ['@docusaurus/plugin-content-blog', {
+      indexBlog: false,
+    }],
+    require.resolve('@cmfcmf/docusaurus-search-local'),
   ],
   presets: [
     [
@@ -91,7 +94,6 @@ const config = {
             position: 'left',
             label: 'Menu',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/kuhlaid/carrrboro-composting',
             label: 'GitHub',
