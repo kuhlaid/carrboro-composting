@@ -1,4 +1,5 @@
 ---
+slug: /
 title: Carrboro Composting Homepage
 ---
 
