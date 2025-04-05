@@ -5,24 +5,28 @@ title: Carrboro Composting Homepage
 
 # Our goal​
 
+:::info[Goals]
 To promote composting in Carrboro in an effort to reduce waste, reduce emissions, and create healthier soils.
+:::
 
 ## Why compost?​
 
 There are many reasons to compost:
 
-1) Divert food waste and compostables from the landfill: There is only a finite amount of space in landfills, and they are quickly filling up. According to a recent analysis report in 2025 regarding landfill waste for Orange County, approximately 27% of material going to the landfill for the county is food waste which could be composted. (or 40% of our waste is compostable). In addition, our waste in Orange County gets shipped ~100 miles to Sampson County, a low income region of the state. (Carrboro pays $60/ton for waste disposal, and including our food waste with the rest of our garbage makes it stinky.) 
-2) Reduce emissions: When food waste breaks down in a landfill without the presence of oxygen (anaerobically), it produces methane, a greenhouse gas that is more than 28 times as potent as carbon dioxide at trapping heat in the atmosphere. By composting instead, we avoid the production of methane.
-3) Create compost: Compost is a useful soil amendment that allows us to enrich our soil, grow healthier plants, and in the process can help reduce runoff, etc.
+1) **Divert food waste and compostables from the landfill:** There is only a finite amount of space in landfills, and they are quickly filling up. According to a 2025 analysis, 40% of the waste generated in Orange County is compostable.  One quarter of the waste Orange County pays to send to a landfill 100 miles away in Sampson County is food waste.
+2) **Reduce emissions:** When food waste breaks down in a landfill without the presence of oxygen (anaerobically), it produces methane, a greenhouse gas that is more than 28 times as potent as carbon dioxide at trapping heat in the atmosphere. By composting instead, we avoid the production of this potent greenhouse gas.
+3) **Create compost:** Compost is a useful soil amendment.  It enriches soil, grows healthier plants, and reduces runoff.
 
 If you’re interested in starting to compost, [visit our page on composting options](composting-options).
 
 ## About Carrboro Composting
 
-Fairoaks Compost was launched in September 2023 with the help of a Green Neighborhoods grant (https://townofcarrboro.org/2778/Green-Neighborhoods-Grant-Program) from the Town of Carrboro. Fairoaks Compost encourages community composting within the neighborhood. We partner with CompostNow, a commercial composting service, to offer composting of all food waste including pizza boxes, meat, and dairy for households.
-Since then our pilot program has been replicated in Barred Owl Creek, the Cedars, Twin Magnolias, and Wexford. Our goal is to help the town of Carrboro reach its climate action goal of reducing CO2 emissions by 80% by 2030. In addition, we’re helping Orange County on its Road to Zero Waste by 2045.
-In our first pilot year, Fairoaks diverted about 9.5 tons of food waste from the landfill, and in the process avoided the production of ~1 ton of methane (25 tons CO2e*). In the process, we’re creating better soil and a more resilient ecosystem. You can track the progress of all of our neighborhood efforts here (link to the Track Our Progress Page).
-*When food waste breaks down without the presence of oxygen (anaerobically), it produces methane, a greenhouse gas that is more than 28 times as potent as carbon dioxide at trapping heat in the atmosphere. Because many organizations will report and track CO2 emissions, it’s often useful to calculate a CO2 equivalent (CO2e) when reporting the effect of our composting efforts.
+Fairoaks Compost was launched in September 2023 with the help of a [Green Neighborhoods grant](https://townofcarrboro.org/2778/Green-Neighborhoods-Grant-Program) from the Town of Carrboro. Fairoaks Compost makes it easier and less expensive for our neighbors to compost their food waste. We partner with CompostNow, a commercial composting service, that takes pizza boxes, meat, and dairy along with traditional food scraps and leftovers. Since then our pilot program has been replicated in Barred Owl Creek, the Cedars, Twin Magnolias, and Wexford. Our goal is to help the town of Carrboro reach its climate action goal of reducing CO2 emissions by 80% by 2030. In addition, our pilot program is helping Orange County on its Road to Zero Waste by 2045. In our first year, Fairoaks diverted about 9.5 tons of food waste from the landfill. In the process we avoided the production of ~1 ton of methane (28 tons CO2e). [You can track the progress of all of our neighborhood efforts here](/progress).
+ 
+An added benefit has been the community building effect on our neighborhood. Educational sessions, happy hours, and trips to the Compost Now bins have fostered relationships and a sense of shared purpose.  A leadership team formed to guide the effort has turned neighbors into friends.
+
+While any homeowner can contract with Compost Now for regular food waste pickups, the costs are far less when shared amongst the neighborhood. In our Fairoaks neighborhood of 161 households, 75 households have chosen to participate in the program. This translates into a cost of $2.60/month/household.
+
 
 
 ## Want to start a similar program in your neighborhood? 
